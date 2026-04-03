@@ -5,7 +5,7 @@ Full package — ready to use:
 [Download from Google Drive](https://drive.google.com/file/d/1n5uB2U_6TDvj0tec0sguBgu3BQfN2IW6/view?usp=drive_link)
 # BlueDesktop
 
-![BlueDesktop]![BlueDesktop](BlueDesktop.png)
+![BlueDesktop](BlueDesktop.png)
 
 A lightweight, portable system management toolkit that runs directly from Windows Recovery Environment (WinRE = Blue Screen) — no full Windows installation required.
 
